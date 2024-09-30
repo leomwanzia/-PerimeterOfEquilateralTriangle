@@ -21,6 +21,8 @@ public class PerimeterOfEqTriangle {
 //        double perimeter = 3 * side;
 //        System.out.println("The perimeter of the Equilateral triangle is: " + perimeter);
 
+        // SECOND METHOD
+
         System.out.print("Enter the length of the Equilateral triangle: "); //prompt to enter the side of the eq triangle
         double side = in.nextDouble(); // reads the input in double
 
